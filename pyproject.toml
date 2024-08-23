@@ -3,7 +3,7 @@ name = "my_agent"
 version = "0.1.0"
 description = "Example LangGraph project for deployment to LangGraph Cloud"
 authors = [
-    "langchain-ai"
+    "Revanth Vermareddy"
 ]
 packages = [
     { include = "my_agent" },
